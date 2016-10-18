@@ -37,6 +37,12 @@ public final class Yun {
     *
     */
     // TODO Auto-generated method stub
+	/*
+	final String str1 = null;
+	if(str1.equals("0")) {
+		System.out.println("yeah");
+	}
+	*/
     final Scanner in = new Scanner(System.in);
     System.out.println("请输入多项式：");
     String abs;
